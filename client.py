@@ -1,4 +1,4 @@
-import socket
+import socket #importing libraries
 import threading
 import time
 
